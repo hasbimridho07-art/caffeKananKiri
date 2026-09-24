@@ -1,0 +1,6 @@
+{
+  "name": "Artisan Coffee Hero",
+  "description": "An artisanal coffee hero section inspired by specialty latte art and warm studio aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
